@@ -5,7 +5,7 @@ Have the chances of various nations to get PERM work permits in the United state
 changed?
 
 ## Data Source:
-[PERM data 2009 - 2016](https://www.foreignlaborcert.doleta.gov/docs/Performance_Data/Disclosure)
+[PERM data 2009 - 2016](https://www.foreignlaborcert.doleta.gov/performancedata.cfm#dis)
 [Natural Earth Data](http://www.naturalearthdata.com/downloads/110m-cultural-vectors/110m-admin-0-countries/)
 [SOC Codes for Professions](http://www.bls.gov/soc/)
 
